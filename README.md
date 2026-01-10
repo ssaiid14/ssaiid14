@@ -41,13 +41,7 @@
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/ssaiid14/ssaiid14/actions/workflows/snake.yml">
-    <img src="https://github.com/ssaiid14/ssaiid14/actions/workflows/snake.yml/badge.svg" alt="Generate snake animation" />
-  </a>
-</div>
 
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssaiid14/ssaiid14/output/snake.svg" />
