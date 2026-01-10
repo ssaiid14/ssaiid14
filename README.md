@@ -33,15 +33,19 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="mailto:soudrich@gmail.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/said-oudrhich" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
 </div>
 
 ###
 
 <br clear="both">
 **Estado del workflow:**  
-![Generate snake animation](https://github.com/ssaiid14/ssaiid14/actions/workflows/snake.yml/badge.svg)
+[![Generate snake animation](https://github.com/ssaiid14/ssaiid14/actions/workflows/snake.yml/badge.svg)](https://github.com/ssaiid14/ssaiid14/actions/workflows/snake.yml)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssaiid14/ssaiid14/output/snake.svg" />
